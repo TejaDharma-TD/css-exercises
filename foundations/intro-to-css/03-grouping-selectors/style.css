@@ -1,0 +1,11 @@
+.box {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.box.left {
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+}
+.box.right {
+    background-color: yellow;
+}
